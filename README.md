@@ -6,7 +6,7 @@ This is a sample of automatic formatting of python source code using black and w
 
 ```shell
 pip install pipenv
-pipenv install
+pipenv install --dev
 ```
 
 ## Usage
